@@ -1,2 +1,0 @@
-# PrengiRealese
-Готовый сайт
